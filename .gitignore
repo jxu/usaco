@@ -1,4 +1,5 @@
 *
+
+# Unignore extensions and dirs
+!*.*
 !*/
-!*.cpp
-!*.in
